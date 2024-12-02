@@ -9,11 +9,10 @@ I’m an aspiring Software Engineer and Full-Stack Developer passionate about le
 
 📫 How to reach me:
 
-LinkedIn: [Your LinkedIn Link]
-Twitter (X): [Your Twitter Handle]
-Facebook: [Your Facebook Handle]
-WhatsApp: [Your WhatsApp Link]
-TikTok: [Your TikTok Handle]
+LinkedIn: www.linkedin.com/in/olaezekielt
+Twitter (X): https://x.com/olaezekiel_T?t=WoY89DjJuDVB1IJ2OWQu0A&s=35
+WhatsApp: https://wa.me/qr/UBNDZCW7UK4ZK1
+
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: When I’m not coding, you’ll likely find me playing strategy games 🎮 or exploring productivity hacks to maximize learning and creativity! 🚀
